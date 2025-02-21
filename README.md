@@ -19,6 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MoniMelgar&icon=4&color=6)](https://visitcount.itsvg.in)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@monicamelg78995/30-nites-of-code)  
-  ![@monicamelg78995 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=monicamelg78995)
+
